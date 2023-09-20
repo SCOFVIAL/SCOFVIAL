@@ -1,5 +1,4 @@
-### Hi there 👋, Victor Alliu
-#### Software Engineer and IT Technician Ethusiast
+# Victor Alliu
 I'm Victor Alliu From Nigeria, I love to be referred to as "Scofvial" as it
 has all my names abbreviation. I'm currently enrolled in Bachelor of Science
 program in Computer Science at Babcock University. I have deep passion for 
@@ -8,7 +7,10 @@ My enthusiasm is centered around the field of Software Engineering, where I'm
 committed to continous learning and skill acquisition. I'm dedicated to 
 expanding my knowledge and gaining practical experience to excell as an IT technician.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / C / PYTHON
+## Skills and EXperience
+* ⚛ React
+* 📱 REact Native
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on Projects from Alx Africa 
 - 🌱 I’m currently learning Skills to be become a full stack engineer 
