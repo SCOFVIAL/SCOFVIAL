@@ -9,7 +9,7 @@ expanding my knowledge and gaining practical experience to excell as an IT techn
 
 ## Skills and EXperience
 * ⚛ React
-* 📱 REact Native
+* 📱 React Native
 * 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on Projects from Alx Africa 
