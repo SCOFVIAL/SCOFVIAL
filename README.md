@@ -1,11 +1,14 @@
 # Victor Alliu
-I'm Victor Alliu From Nigeria, I love to be referred to as "Scofvial" as it
-has all my names abbreviation. I'm currently enrolled in Bachelor of Science
-program in Computer Science at Babcock University. I have deep passion for 
-technology and am proficient in diagnosing both hardware and software issues. 
-My enthusiasm is centered around the field of Software Engineering, where I'm 
-committed to continous learning and skill acquisition. I'm dedicated to 
-expanding my knowledge and gaining practical experience to excell as an IT Technician.
+I'm Victor Alliu from Nigeria, preferring to be addressed as "Scofvial," 
+which is a blend of my names. Currently, I'm a student at Babcock 
+University, where I'm pursuing a Bachelor of Science in Computer Science. 
+Additionally, I'm simultaneously advancing my skills in software 
+engineering as a student at Alx Africa. I possess a profound passion for 
+technology and excel in diagnosing both hardware and software issues. My 
+dedication is firmly rooted in the field of Software Engineering, and I am 
+committed to continuous learning and skill acquisition. My ultimate goal is 
+to thrive as an IT Technician by further expanding my knowledge and gaining 
+invaluable practical experience.
 
 ## Skills and EXperience
 * ⚛ React
@@ -19,5 +22,7 @@ expanding my knowledge and gaining practical experience to excell as an IT Techn
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scofvial)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SCOFVIAL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-alliu-616819202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SCOFVIAL972)  
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SCOFVIAL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-alliu-616819202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SCOFVIAL972)  
