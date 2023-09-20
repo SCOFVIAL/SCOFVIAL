@@ -10,7 +10,7 @@ committed to continuous learning and skill acquisition. My ultimate goal is
 to thrive as an IT Technician by further expanding my knowledge and gaining 
 invaluable practical experience.
 
-## Skills and EXperience
+## Skills and Experience
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
