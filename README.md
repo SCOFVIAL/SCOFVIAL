@@ -14,6 +14,7 @@ invaluable practical experience.
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
+* 🍵 Java
 
 - 🔭 I’m currently working on Projects from Alx Africa 
 - 🌱 I’m currently learning Skills to be become a full stack engineer 
